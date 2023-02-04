@@ -35,6 +35,7 @@ const ShowArrayDelete = () => {
   };
 
   return (
+    
     <div>
       <Form onSubmit={submitHandle}>
         <p>Please Insert your Information</p>
